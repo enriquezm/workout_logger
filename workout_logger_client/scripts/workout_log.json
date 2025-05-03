@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2025-05-02T03:54:53.632Z",
+    "workout": "Phase 1 - Regular",
+    "type": "pullup",
+    "sets": [
+      15,
+      11,
+      10,
+      7
+    ]
+  },
+  {
+    "date": "2025-05-03T02:38:25.421Z",
+    "workout": "Phase 1 - Regular",
+    "type": "pushup",
+    "sets": [
+      20,
+      20,
+      20,
+      20
+    ]
+  }
+]
